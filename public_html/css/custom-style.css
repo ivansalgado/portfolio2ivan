@@ -1,3 +1,15 @@
-body{
-    background-image: url("css/img_WestfieldSF.jpg");
+div{
+    border-style: groove;
+    border-width: 20px;
+    border-color: green;
+    padding: 20px;
 }
+
+.container{
+    border-color: blue;
+}
+
+.row{
+    border-color: red;
+}
+
