@@ -1,15 +1,11 @@
 div{
     border-style: groove;
-    border-width: 20px;
-    border-color: green;
+    border-width: 1px;
+    border-color: white;
     padding: 20px;
 }
 
-.container{
-    border-color: blue;
-}
 
-.row{
-    border-color: red;
-}
+
+
 
